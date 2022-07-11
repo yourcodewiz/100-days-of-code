@@ -27,3 +27,10 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+<h2 align=”center”>Day 1: Day Month 01, 2018</h2>
+<img src=”#" alt=””>
+**Today’s Progress**: Write progress here.
+**Thoughts:** Write additional thoughts here.
+**Link to tweet:** [yourName Day 1](insertLinkToTweet)
+**Link to work:** [nameOfWork](insertLinkHere)
